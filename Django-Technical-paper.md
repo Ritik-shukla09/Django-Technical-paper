@@ -1,6 +1,5 @@
 # A Technical Review of Core Django Concepts  
-**Author:** Ketan Shukla  
-**Domain:** Web Application Development  
+
 **Framework:** Django (Python)  
 
 ---
